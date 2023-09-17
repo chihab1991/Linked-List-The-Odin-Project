@@ -1,0 +1,22 @@
+{
+  "name": "linked-list-the-odin-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chihab1991/Linked-List-The-Odin-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chihab1991/Linked-List-The-Odin-Project/issues"
+  },
+  "homepage": "https://github.com/chihab1991/Linked-List-The-Odin-Project#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
